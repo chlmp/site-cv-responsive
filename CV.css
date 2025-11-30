@@ -145,7 +145,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh; 
+  min-height: 92vh; 
   height: auto;
   scroll-snap-align: start;
   background-color: rgba(200, 213, 187, 0.4);
@@ -183,7 +183,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 92vh;
   height: auto;
   scroll-snap-align: start;
   padding-top: 50px;
@@ -221,7 +221,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 92vh;
   height: auto;
   scroll-snap-align: start;
   background-color: rgba(200, 213, 187, 0.4);
@@ -288,7 +288,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 92vh;
   height: auto;
   scroll-snap-align: start;
   padding-top: 50px;
@@ -324,7 +324,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 92vh;
   height: auto;
   scroll-snap-align: start;
   background-color: rgba(200, 213, 187, 0.4);
@@ -363,7 +363,7 @@ nav p{
   align-items: left; 
   width: 100%;
   flex-direction: column;
-  min-height: 95vh;
+  min-height: 92vh;
   height: auto;
   scroll-snap-align: start;
   padding-top: 50px;
